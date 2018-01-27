@@ -1,2 +1,2 @@
 # drunkify
-Drunkify your music _beer_
+Drunkify your music ::beer::
